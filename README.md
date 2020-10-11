@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Workflow status check 👀
+![Auto Archive](https://github.com/dingyx99/newspaper-auto-archive/workflows/Auto%20Archive/badge.svg?branch=main)
